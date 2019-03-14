@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>myappico.ico</file>
+        <file>pictures/deposit3.jpg</file>
+        <file>pictures/withdraw.jpg</file>
+        <file>pictures/coins-yellow.svg</file>
+        <file>pictures/win4.mp3</file>
+        <file>C:/Users/ASyle/Pictures/wining копия.png</file>
+    </qresource>
+</RCC>
